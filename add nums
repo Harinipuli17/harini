@@ -8,7 +8,7 @@
        01 RESULT        PIC 9(6) VALUE 0.
 
        PROCEDURE DIVISION.
-       MAIN-PARA.
+       MAIN-PARA1.
            DISPLAY "Enter the first number: " WITH NO ADVANCING.
            ACCEPT NUM1.
            DISPLAY "Enter the second number: " WITH NO ADVANCING.
