@@ -10,9 +10,9 @@
        PROCEDURE DIVISION.
        MAIN-PARAGRAPH1.
            DISPLAY "Enter the first number: " WITH NO ADVANCING.
-           ACCEPT NUM1.
+           ACCEPT N1.
            DISPLAY "Enter the second number: " WITH NO ADVANCING.
-           ACCEPT NUM2.
+           ACCEPT N2.
            COMPUTE RESULT = NUM1 + NUM2.
            DISPLAY "The result of addition is: " RESULT.
            STOP RUN.
